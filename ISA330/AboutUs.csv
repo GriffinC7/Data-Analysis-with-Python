@@ -1,0 +1,35 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q1,Q2,Q3,Q5,Q6,Q7,Q8
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Name,Favorite Number,Pet?,Type of Pet?,Graduation Date?,Class Year,Height in Feet?
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1_TEXT""}","{""ImportId"":""QID2_TEXT""}","{""ImportId"":""QID3""}","{""ImportId"":""QID5""}","{""ImportId"":""QID6_TEXT""}","{""ImportId"":""QID7""}","{""ImportId"":""QID8_TEXT""}"
+9/7/2022 9:56,9/7/2022 9:56,Survey Preview,,100,36,TRUE,9/7/2022 9:56,R_xbCNFvqELOkowBb,,,,,41.8578,-71.4377,preview,EN,Testing,,,,,,
+9/7/2022 10:00,9/7/2022 10:00,IP Address,66.206.141.233,100,8,TRUE,9/7/2022 10:00,R_2v2hRGihWJfgaSi,,,,,41.8578,-71.4377,anonymous,EN,Testing2,,,,,,
+9/7/2022 10:01,9/7/2022 10:01,IP Address,66.206.141.233,100,9,TRUE,9/7/2022 10:01,R_cTsCAySSD3Kb5zb,,,,,41.8578,-71.4377,anonymous,EN,Testing3,3,,,,,
+9/7/2022 10:17,9/7/2022 10:18,IP Address,192.135.181.236,100,30,TRUE,9/7/2022 10:18,R_1rP9EsFlQzqiIvw,,,,,41.8979,-71.5165,anonymous,EN,Emma Pedolzky ,13,Yes,Dog,May-25,Second year,5 ft 8 in
+9/7/2022 10:18,9/7/2022 10:19,IP Address,192.135.181.236,100,51,TRUE,9/7/2022 10:19,R_1pyfj9LLOnShE6Y,,,,,41.8979,-71.5165,anonymous,EN,Emma Pedolzky  ,13,Yes,Dog,May-25,Second year,5ft 8in
+9/7/2022 10:59,9/7/2022 11:01,IP Address,68.224.195.7,100,91,TRUE,9/7/2022 11:01,R_ABuvbYdo4NV8t3z,,,,,41.8979,-71.5165,anonymous,EN,Norberto Alvarado III,6,Yes,Dog,May-23,Fourth year,5'7
+9/7/2022 10:57,9/7/2022 11:02,IP Address,192.135.181.226,100,286,TRUE,9/7/2022 11:02,R_2YYfobrac5fg0bw,,,,,41.8979,-71.5165,anonymous,EN,Trevor Christensen,3,Yes,Dog,May-25,Second year,5'9''
+9/7/2022 11:02,9/7/2022 11:02,IP Address,192.135.181.226,100,6,TRUE,9/7/2022 11:02,R_3h4L8hnUrlBhepi,,,,,41.8979,-71.5165,anonymous,EN,,,,,,,
+9/7/2022 11:02,9/7/2022 11:02,IP Address,174.242.137.12,100,59,TRUE,9/7/2022 11:03,R_0wS9uSXw91RR4DT,,,,,41.8244,-71.408,anonymous,EN,Nick,9,Yes,"Dog,Cat,Reptile",May-23,Fourth year,6
+9/7/2022 11:19,9/7/2022 11:23,IP Address,192.135.181.239,100,231,TRUE,9/7/2022 11:23,R_yBDhNs2PIiB94lj,,,,,41.8979,-71.5165,anonymous,EN,Renee Delos,11,Yes,Dog,2024,Third year,5.66 ft
+9/7/2022 18:39,9/7/2022 18:40,IP Address,192.135.181.232,100,75,TRUE,9/7/2022 18:40,R_2gFtjuwHyiX5rbz,,,,,41.8979,-71.5165,anonymous,EN,Katelyn Muia,44,Yes,Dog,May-24,Third year,5.1
+9/7/2022 18:55,9/7/2022 18:57,IP Address,100.10.87.225,100,88,TRUE,9/7/2022 18:57,R_1dmJMiIWSWNNkVE,,,,,41.874,-71.3844,anonymous,EN,Darya Bankouskaya,4,Yes,Dog,5/22/2024,Third year,5'8''
+9/7/2022 20:23,9/7/2022 20:26,IP Address,74.97.185.140,100,206,TRUE,9/7/2022 20:26,R_3HjGRGCT4ilOc0V,,,,,41.9511,-71.413,anonymous,EN,Ganesh Thammana,6,No,,May-25,Second year,5.5
+9/7/2022 20:37,9/7/2022 20:40,IP Address,192.135.181.228,100,187,TRUE,9/7/2022 20:40,R_wZfINrHJM5fjpAJ,,,,,41.8979,-71.5165,anonymous,EN,Griffin,7,No,,May-24,Third year,"5'5"""
+9/8/2022 9:03,9/8/2022 9:04,IP Address,192.135.181.225,100,30,TRUE,9/8/2022 9:04,R_aXFisRR7NmS2Crf,,,,,41.8979,-71.5165,anonymous,EN,Reese Stevenson ,343,Yes,"Dog,Cat",May-24,Third year,5.11
+9/8/2022 11:21,9/8/2022 11:22,IP Address,192.135.181.230,100,83,TRUE,9/8/2022 11:22,R_3hA9w4tCqxnzM1L,,,,,41.8979,-71.5165,anonymous,EN,Jack Sweeney,7,Yes,Dog, Spring 2025,Second year,6
+9/8/2022 11:27,9/8/2022 11:28,IP Address,192.135.181.225,100,46,TRUE,9/8/2022 11:28,R_2y7T6AVTfiqNWGZ,,,,,41.8979,-71.5165,anonymous,EN,Peter Sullivan,22,Yes,Dog,2023,Fourth year,"5'10"""
+9/8/2022 11:34,9/8/2022 11:35,IP Address,192.135.181.226,100,70,TRUE,9/8/2022 11:35,R_BrJWtJwEbaL6KiJ,,,,,41.8979,-71.5165,anonymous,EN,Ian James Carpenter,207,Yes,Dog,2025,Third year,6.33
+9/8/2022 13:38,9/8/2022 13:39,IP Address,192.135.181.228,100,47,TRUE,9/8/2022 13:39,R_3hGccVVmLfansVg,,,,,41.8979,-71.5165,anonymous,EN,Luke Walsh,7,Yes,"Dog,Cat",2025,Second year,5.7
+9/8/2022 14:18,9/8/2022 14:19,IP Address,192.135.181.230,100,36,TRUE,9/8/2022 14:19,R_1BWOGlqqJLyWQNz,,,,,41.8979,-71.5165,anonymous,EN,Adam,2,Yes,Dog,May-23,Fourth year,6
+9/8/2022 14:28,9/8/2022 14:29,IP Address,192.135.181.238,100,36,TRUE,9/8/2022 14:29,R_2XaIHcqM3Qho36U,,,,,41.8979,-71.5165,anonymous,EN,Jon Riordan,5,Yes,Dog,May-23,Fourth year,6'2
+9/8/2022 16:38,9/8/2022 16:39,IP Address,108.34.171.227,100,32,TRUE,9/8/2022 16:39,R_UaP6n3DjsJdMNeF,,,,,41.8979,-71.5165,anonymous,EN,ML Tlachac,6,Yes,"Dog,Fish",2022,,5.5
+9/8/2022 16:39,9/8/2022 16:39,IP Address,108.34.171.227,100,26,TRUE,9/8/2022 16:39,R_3jZiepdHgECfYEm,,,,,41.8979,-71.5165,anonymous,EN,ML Tlachac,9,Yes,Fish,2015,,5.6
+9/8/2022 16:39,9/8/2022 16:39,Spam,108.34.171.227,100,20,TRUE,9/8/2022 16:39,R_2yp82LV81uC4Jnx,,,,,41.8979,-71.5165,anonymous,EN,ML Tlachac,6,Yes,"Dog,Fish",2022,,5.5
+9/8/2022 22:34,9/8/2022 22:35,IP Address,192.135.181.232,100,56,TRUE,9/8/2022 22:35,R_3F35EWt4bvGk4qB,,,,,41.8979,-71.5165,anonymous,EN,Luke Lamontagne,32,Yes,Dog,May-24,Third year,5.42
+9/9/2022 6:51,9/9/2022 6:52,IP Address,192.135.181.232,100,20,TRUE,9/9/2022 6:52,R_3iIsu0cyP7j0h9V,,,,,41.8979,-71.5165,anonymous,EN,Ganesh Thammana,9,No,,2025,Second year,5.5
+9/9/2022 6:56,9/9/2022 6:57,IP Address,192.135.181.232,100,81,TRUE,9/9/2022 6:57,R_6svuRLQsSncuzDj,,,,,41.8979,-71.5165,anonymous,EN,Thomas,85,Yes,Cat,2025,Second year,6.083
+9/9/2022 6:57,9/9/2022 6:57,IP Address,192.135.181.229,100,25,TRUE,9/9/2022 6:57,R_vq4Q29b4K6w6meR,,,,,41.8979,-71.5165,anonymous,EN,Fadi Oumera,7,No,,May-23,Fifth year,6'1
+9/9/2022 6:56,9/9/2022 6:57,IP Address,192.135.181.228,100,69,TRUE,9/9/2022 6:57,R_vNzGUlW6whj8phL,,,,,41.8979,-71.5165,anonymous,EN,Trevor Francis,1728,Yes,Dog,2025,Second year,5.84
+9/9/2022 6:59,9/9/2022 6:59,IP Address,192.135.181.239,100,22,TRUE,9/9/2022 6:59,R_2rOrJvxYlDcVh4U,,,,,41.8979,-71.5165,anonymous,EN,Natalia Kuipers,6,Yes,Dog,2024,Third year,5ft8
+9/9/2022 6:59,9/9/2022 7:00,IP Address,192.135.181.236,100,41,TRUE,9/9/2022 7:00,R_2f6Tis0LwSIHpCR,,,,,41.8979,-71.5165,anonymous,EN,Matthew Bilan,33,Yes,Dog,2024,Third year,5'11''
+9/9/2022 7:02,9/9/2022 7:02,IP Address,192.135.181.228,100,26,TRUE,9/9/2022 7:02,R_sdHM6980d7pLXO1,,,,,41.8979,-71.5165,anonymous,EN,Luis,11,No,,2024,Third year,5'9''
